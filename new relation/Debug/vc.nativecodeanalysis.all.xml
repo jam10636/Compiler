@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\</FILEPATH>
+      <FILENAME>database.cpp</FILENAME>
+      <LINE>229</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'it' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '218' of 'c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp'.</DESCRIPTION>
+    <FUNCTION>database::ruleeval</FUNCTION>
+    <DECORATED>?ruleeval@database@@QAEXXZ</DECORATED>
+    <FUNCLINE>207</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\</FILEPATH>
+        <FILENAME>database.cpp</FILENAME>
+        <LINE>218</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\</FILEPATH>
+      <FILENAME>database.cpp</FILENAME>
+      <LINE>241</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'it' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '218' of 'c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp'.</DESCRIPTION>
+    <FUNCTION>database::ruleeval</FUNCTION>
+    <DECORATED>?ruleeval@database@@QAEXXZ</DECORATED>
+    <FUNCLINE>207</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\</FILEPATH>
+        <FILENAME>database.cpp</FILENAME>
+        <LINE>218</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\</FILEPATH>
+      <FILENAME>scanner.cpp</FILENAME>
+      <LINE>75</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6330</DEFECTCODE>
+    <DESCRIPTION>'char' passed as _Param_(1) when 'unsigned char' is required in call to 'isalpha'.</DESCRIPTION>
+    <FUNCTION>scanner::readfile</FUNCTION>
+    <DECORATED>?readfile@scanner@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>2</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\</FILEPATH>
+      <FILENAME>scanner.cpp</FILENAME>
+      <LINE>81</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>6330</DEFECTCODE>
+    <DESCRIPTION>'char' passed as _Param_(1) when 'unsigned char' is required in call to 'isspace'.</DESCRIPTION>
+    <FUNCTION>scanner::readfile</FUNCTION>
+    <DECORATED>?readfile@scanner@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>2</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

@@ -1,0 +1,26 @@
+﻿  database.cpp
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\relation.h(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\relation.h(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\relation.h(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp(4): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp(165): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp(177): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp(181): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp(213): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp(269): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp(279): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp(285): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp(317): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp(321): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp(328): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp(330): warning C4018: '<': signed/unsigned mismatch
+c:\users\jam10\onedrive\documents\visual studio 2015\projects\new relation\new relation\database.cpp(333): warning C4018: '<': signed/unsigned mismatch
+  new relation.vcxproj -> C:\Users\jam10\OneDrive\Documents\Visual Studio 2015\Projects\new relation\Debug\new relation.exe
+  new relation.vcxproj -> C:\Users\jam10\OneDrive\Documents\Visual Studio 2015\Projects\new relation\Debug\new relation.pdb (Partial PDB)
